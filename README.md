@@ -1,7 +1,7 @@
 # 🏙️ **RealEstate Research Tool**
 
 We are going to build a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the real-estate domain. (But it's features can be extended to any domain.)
-![product screenshot](resources/image.png)
+
 ### Features
 
 - Load URLs to fetch article content.
@@ -50,10 +50,3 @@ The web app will open in your browser after the set-up is complete.
   - https://www.cnbc.com/2024/12/20/why-mortgage-rates-jumped-despite-fed-interest-rate-cut.html
   - https://www.cnbc.com/2024/12/17/wall-street-sees-upside-in-2025-for-these-dividend-paying-real-estate-stocks.html
 
-
-</br>
-
----
-Copyright (C) Codebasics Inc. All rights reserved.
-
-Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
