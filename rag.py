@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 load_dotenv()
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-VECTORSTORE_DIR = Path(__file__).parent / "resources/vectorstore"
+VECTORSTORE_DIR = Path("/tmp/vectorstore")
 COLLECTION_NAME = "real_estate"
 
 llm = None
