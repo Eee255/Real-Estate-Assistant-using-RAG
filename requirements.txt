@@ -10,3 +10,4 @@ langchain-core
 requests
 beautifulsoup4
 protobuf==3.20.3
+sentence-transformers
