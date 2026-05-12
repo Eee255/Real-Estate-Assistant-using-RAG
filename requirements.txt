@@ -1,9 +1,11 @@
 python-dotenv
 streamlit
-unstructured
 tiktoken
 langchain-chroma
 langchain-groq
 langchain-community
-protobuf
 langchain-huggingface
+langchain-text-splitters
+langchain-core
+requests
+beautifulsoup4
